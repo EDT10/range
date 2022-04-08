@@ -1,0 +1,1 @@
+This program uses the random module to shuffle a list. I had the chance to practice "for loops" to iterate in the items in the last, use the range function to generate numbers from 0 to 20. The program print out each number of the list and then calculates the square of that number.

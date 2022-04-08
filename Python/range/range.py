@@ -1,3 +1,5 @@
+#import the random module
+
 import random
 
 #start with empty list 
@@ -10,7 +12,7 @@ for num in range(0,20):
     #shuffle the list using the random module
     random.shuffle(lists)
 
-
+#for loop to iterate item in the shuffled list
 for i in lists:
     #print out each iteration of the shuffled list
     print(f"Number: {i}")
